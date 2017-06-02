@@ -1,9 +1,9 @@
 						STOP SYSTEMD LICENSE
 
-The Stop Systemd License is a mostly free license for software. It is intended
-to be compatible with other software licenses by extending them and adding one
-simple restriction aimed at sparing users the functional abuse(s) of systemd
-while also saving the Free Software world from its cancerous nature.
+The Stop Systemd License is a mostly free license for software. This licence
+amends software licences and is supposed to be used in conjunction with any.
+It adds one simple restriction aimed at sparing users the functional abuse(s)
+of systemd while also saving the Free Software world from its cancerous nature.
 
 The infamous systemd project is designed to take away init freedom and establish
  a dangerous monoculture by unjustifiably encroaching upon every piece of
