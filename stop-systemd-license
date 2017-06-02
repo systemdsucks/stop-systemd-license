@@ -1,0 +1,25 @@
+						STOP SYSTEMD LICENSE
+
+The Stop Systemd License is a mostly free license for software. It is intended
+to be compatible with other software licenses by extending them and adding one
+simple restriction aimed at sparing users the functional abuse(s) of systemd
+while also saving the Free Software world from its cancerous nature.
+
+The infamous systemd project is designed to take away init freedom and establish
+ a dangerous monoculture by unjustifiably encroaching upon every piece of
+software it encounters. The Stop Systemd License is designed to put an end to
+this by explicitly forbidding any dependency, integration or interoperability
+with it.
+
+Quoting the GNU GPL version 3: 
+«To protect your rights, we need to prevent others from denying you these rights 
+or asking you to surrender the rights. Therefore, you have certain 
+responsibilities if you distribute copies of the software, or if you modify it: 
+responsibilities to respect the freedom of others.» The Stop Systemd License 
+simply asks you to focus this common courtesy on the choice of init system. 
+Don't add systemd dependencies. Don't use any of its libraries or
+functionalities. Don't fall for it. Don't become part of the problem.
+
+Any derivative work can only be distributed under the terms of this license.
+
+STAY UNIX. STAY PORTABLE.
