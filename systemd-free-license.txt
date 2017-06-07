@@ -5,15 +5,20 @@ amends software licences and is supposed to be used in conjunction with any.
 It adds one simple restriction aimed at sparing users the functional abuse(s)
 of systemd while also saving the Free Software world from its cancerous nature.
 
-The infamous systemd project is designed to take away init freedom and establish
- a dangerous monoculture by unjustifiably encroaching upon every piece of
-software it encounters. The Stop Systemd License is designed to put an end to
-this by explicitly forbidding any dependency, integration or interoperability
-with it.
+The infamous systemd project is designed to take away init freedom and 
+establish a dangerous monoculture by unjustifiably encroaching upon every piece 
+of software it encounters. The Stop Systemd License is designed to put an end 
+to this by explicitly forbidding any dependency, integration etc... with it.
+To clarify: SFL-licensed software should work under systemd as init till the 
+point where integration, dependency etc... are required. The developer is 
+allowed to implement workarounds to that effect. It is also explicitly 
+forbidden to actively implement any mechanism to unjustifiably degrade the 
+certified software's functionality when running under systemd as init, e.g. 
+simply refusing to run with no good reason.
 
 Quoting the GNU GPL version 3: 
-«To protect your rights, we need to prevent others from denying you these rights 
-or asking you to surrender the rights. Therefore, you have certain 
+«To protect your rights, we need to prevent others from denying you these 
+rights or asking you to surrender the rights. Therefore, you have certain 
 responsibilities if you distribute copies of the software, or if you modify it: 
 responsibilities to respect the freedom of others.» The Stop Systemd License 
 simply asks you to focus this common courtesy on the choice of init system. 
